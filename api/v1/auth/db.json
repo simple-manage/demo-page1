@@ -1,0 +1,9 @@
+{
+	"tokenlogin": {
+		"provider": "GOOGLE",
+		"email": "demo@simple-org.com",
+		"name": "demo user",
+		"auth_token": "fake-token",
+	},
+	"logout": {},
+}
